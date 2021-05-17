@@ -1,0 +1,2 @@
+# Test_Connect_MySQL_success
+ Django_not_completed
